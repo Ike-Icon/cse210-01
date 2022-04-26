@@ -8,7 +8,8 @@ def main():
 
 
 def make_a_board():
-    pass
+    board = []
+    for box in range(9)
 
 
 def board_display():
